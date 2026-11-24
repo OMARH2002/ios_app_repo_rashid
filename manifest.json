@@ -1,6 +1,6 @@
 {
-    "name": "rashiduniapp",
-    "short_name": "rashiduniapp",
+    "name": "RashidUniApp",
+    "short_name": "RashidUniApp",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
@@ -10,13 +10,13 @@
     "prefer_related_applications": false,
     "icons": [
         {
-            "src": "icons/logo.png",
+            "src": "icons/rashid-192.png",
             "sizes": "192x192",
             "type": "image/png",
             "purpose": "any"
         },
         {
-            "src": "icons/logo.png",
+            "src": "icons/rashid-512.png",
             "sizes": "512x512",
             "type": "image/png",
             "purpose": "any"

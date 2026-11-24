@@ -131951,7 +131951,7 @@ $3(a,b,c){return B.uy},
 $S:138}
 A.aOO.prototype={
 $2(a1,a2){var s,r,q,p,o,n,m=null,l=a2.b<600,k=l?20:32,j=l?18:30,i=A.z(24),h=A.b([new A.bN(0,B.a9,A.ao(64,B.q.q()>>>16&255,B.q.q()>>>8&255,B.q.q()&255),B.xk,40)],t.E),g=A.z(24),f=l?22:32,e=l?20:30,d=l?22:32,c=l?20:28,b=l?13:18,a=l?7:10,a0=A.z(13)
-b=A.S(m,A.ld("assets/images/rashid_logo.png",B.L,m,B.hv,l?45:57,m),B.l,m,m,new A.Z(B.f,m,m,a0,m,m,B.p),m,m,m,new A.a0(b,a,b,a),m,m,m)
+b=A.S(m,A.ld("assets/images/logo.png",B.L,m,B.hv,l?45:57,m),B.l,m,m,new A.Z(B.f,m,m,a0,m,m,B.p),m,m,m,new A.a0(b,a,b,a),m,m,m)
 a=A.aJ(m,l?15:25,m)
 a0=l?34:42
 a0=A.S(m,m,B.l,m,m,new A.Z(B.bL,m,m,A.z(10),m,m,B.p),m,3,m,m,m,m,a0)
@@ -136334,7 +136334,7 @@ q=s<m?o.gabU():B.ee
 p=new A.b8(10,10)
 j[s]=new A.d1(1,B.aG,A.S(n,n,B.l,n,n,new A.Z(q,n,n,new A.cN(p,p,p,p),n,n,B.p),n,5,new A.a0(0,0,r,0),n,n,n,n),n)}return A.a4(A.b([k,B.au,A.af(j,B.n,B.h,B.k,0,n),B.au,A.q("Use 12+ characters, uppercase and lowercase letters, and at least one number.",n,n,n,A.aK(n,n,B.c8,n,n,n,n,n,n,n,n,11,n,n,n,n,1.4,!0,n,n,n,n,n,n,n,n),n,n,n)],l),B.t,B.h,B.k,0,B.m)},
 awh(a){var s,r,q,p,o,n=null,m=a?22:30,l=a?22:28,k=a?48:60
-k=A.ld("assets/images/rashid_logo.png",B.L,new A.b_o(a),B.hv,k,n)
+k=A.ld("assets/images/logo.png",B.L,new A.b_o(a),B.hv,k,n)
 s=A.aJ(n,a?13:17,n)
 r=A.S(n,n,B.l,n,n,new A.Z(B.bL,n,n,A.z(5),n,n,B.p),n,3,n,n,n,n,42)
 q=A.aJ(n,a?15:19,n)
@@ -136723,7 +136723,7 @@ $3(a,b,c){return B.uy},
 $S:138}
 A.b02.prototype={
 $2(a1,a2){var s,r,q,p,o,n,m=null,l=a2.b<600,k=l?20:32,j=l?18:30,i=A.z(24),h=A.b([new A.bN(0,B.a9,A.ao(64,B.q.q()>>>16&255,B.q.q()>>>8&255,B.q.q()&255),B.xk,40)],t.E),g=A.z(24),f=l?22:32,e=l?20:30,d=l?22:32,c=l?20:28,b=l?13:18,a=l?7:10,a0=A.z(13)
-b=A.S(m,A.ld("assets/images/rashid_logo.png",B.L,m,B.hv,l?45:57,m),B.l,m,m,new A.Z(B.f,m,m,a0,m,m,B.p),m,m,m,new A.a0(b,a,b,a),m,m,m)
+b=A.S(m,A.ld("assets/images/logo.png",B.L,m,B.hv,l?45:57,m),B.l,m,m,new A.Z(B.f,m,m,a0,m,m,B.p),m,m,m,new A.a0(b,a,b,a),m,m,m)
 a=A.aJ(m,l?15:25,m)
 a0=l?34:42
 a0=A.S(m,m,B.l,m,m,new A.Z(B.bL,m,m,A.z(10),m,m,B.p),m,3,m,m,m,m,a0)
@@ -138486,7 +138486,7 @@ return s.xw(this.b,s.abV())},
 $S:0}
 A.Ts.prototype={
 L(a){var s=null,r=this.c,q=A.z(15),p=A.b([new A.bN(0,B.a9,A.ao(41,B.q.q()>>>16&255,B.q.q()>>>8&255,B.q.q()&255),B.k3,16)],t.E)
-return A.S(s,A.ld("assets/images/rashid_logo.png",B.L,new A.baL(),B.hv,s,s),B.l,s,s,new A.Z(B.f,s,s,q,p,s,B.p),s,r,s,B.Cu,s,s,r)}}
+return A.S(s,A.ld("assets/images/logo.png",B.L,new A.baL(),B.hv,s,s),B.l,s,s,new A.Z(B.f,s,s,q,p,s,B.p),s,r,s,B.Cu,s,s,r)}}
 A.baL.prototype={
 $3(a,b,c){return B.ER},
 $S:157}
@@ -138602,7 +138602,7 @@ o=o.gt()
 s=p.e
 s===$&&A.a()
 s=A.b([new A.bN(4,B.a9,A.ao(B.i.aT(255*(0.35*s.gt())),B.nJ.q()>>>16&255,B.nJ.q()>>>8&255,B.nJ.q()&255),B.r,30)],t.E)
-o=A.bhf(A.S(q,new A.WP(A.ld("assets/images/rashid_logo.png",B.L,new A.b6U(),B.fI,180,180),q),B.l,q,q,new A.Z(q,q,q,q,s,q,B.cB),q,180,q,q,q,q,180),new A.o(0,56*(1-o)))
+o=A.bhf(A.S(q,new A.WP(A.ld("assets/images/logo.png",B.L,new A.b6U(),B.fI,180,180),q),B.l,q,q,new A.Z(q,q,q,q,s,q,B.cB),q,180,q,q,q,q,180),new A.o(0,56*(1-o)))
 s=p.r
 s===$&&A.a()
 r=p.w
@@ -139453,7 +139453,7 @@ return A.m($async$Bd,r)},
 a48(a,b){var s=null,r=b?7:9
 return new A.ak(new A.a0(0,0,0,r),A.q(a,s,s,s,A.aK(s,s,B.o,s,s,s,s,s,s,s,s,b?12:13,s,s,B.ah,s,s,!0,s,s,s,s,s,s,s,s),s,s,s),s)},
 axg(a){var s,r,q,p,o,n=null,m=a?22:32,l=a?20:25,k=a?48:60,j=a?48:60,i=A.z(13)
-k=A.S(n,A.ld("assets/images/rashid_logo.png",B.L,new A.aSd(),B.hv,n,n),B.l,n,n,new A.Z(B.f,n,n,i,n,n,B.p),n,j,n,B.Cu,n,n,k)
+k=A.S(n,A.ld("assets/images/logo.png",B.L,new A.aSd(),B.hv,n,n),B.l,n,n,new A.Z(B.f,n,n,i,n,n,B.p),n,j,n,B.Cu,n,n,k)
 j=A.aJ(n,a?12:16,n)
 i=this.a.c?"\u0628\u0648\u0627\u0628\u0629 \u0627\u0644\u0637\u0627\u0644\u0628":"STUDENT PORTAL"
 i=A.q(i,n,n,n,A.aK(n,n,B.bL,n,n,n,n,n,n,n,n,a?10:11,n,n,B.D,n,n,!0,n,2,n,n,n,n,n,n),n,n,n)
@@ -140693,7 +140693,7 @@ a4=j?13:18
 s=j?7:10
 r=A.z(13)
 e=A.b([new A.bN(0,B.a9,A.ao(31,B.q.q()>>>16&255,B.q.q()>>>8&255,B.q.q()&255),B.xl,18)],e)
-e=A.S(k,A.ld("assets/images/rashid_logo.png",B.L,k,B.hv,j?45:57,k),B.l,k,k,new A.Z(B.f,k,k,r,e,k,B.p),k,k,k,new A.a0(a4,s,a4,s),k,k,k)
+e=A.S(k,A.ld("assets/images/logo.png",B.L,k,B.hv,j?45:57,k),B.l,k,k,new A.Z(B.f,k,k,r,e,k,B.p),k,k,k,new A.a0(a4,s,a4,s),k,k,k)
 a4=A.aJ(k,j?15:22,k)
 s=j?34:42
 s=A.S(k,k,B.l,k,k,new A.Z(B.bL,k,k,A.z(10),k,k,B.p),k,3,k,k,k,k,s)
@@ -150654,7 +150654,7 @@ B.tu=new A.Gj(0,"polite")
 B.ng=new A.VB(0,"polite")
 B.tv=new A.Gj(1,"assertive")
 B.zQ=new A.VB(1,"assertive")
-B.a1p=new A.zF("assets/images/rashid_logo.png",null,null)
+B.a1p=new A.zF("assets/images/logo.png",null,null)
 B.a1q=new A.VE(null)
 B.bR=s([],t.s)
 B.x=new A.Na(1,"downstream")
